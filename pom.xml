@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.test</groupId>
-	<artifactId>teleservices</artifactId>
+	<artifactId>basicstructure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>teleservice</name>
-	<description>teleservices</description>
+	<name>basicstructure</name>
+	<description>basicstructure</description>
 
 	<properties>
 		<java.version>1.8</java.version>
